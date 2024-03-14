@@ -1,0 +1,22 @@
+{
+  "name": "for_tea",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Just-programmer1216/For_tea.git"
+  },
+  "dependencies": {
+    "photooftea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Just-programmer1216/For_tea/issues"
+  },
+  "homepage": "https://github.com/Just-programmer1216/For_tea#readme"
+}
