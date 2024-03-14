@@ -1,5 +1,5 @@
 {
-  "name": "for_tea",
+  "name": "adamtearlok",
   "version": "1.0.0",
   "description": "Basic demonstration app",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Just-programmer1216/For_tea.git"
+    "url": "git+https://github.com/Just-programmer1216/For_tea.git"
   },
   "dependencies": {
     "photooftea": "1.0.0"
